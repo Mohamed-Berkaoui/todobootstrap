@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "7baf",
+      "task": "task 1",
+      "important": "1",
+      "description": "An ergonomic gaming mouse with adjustable DPI settings.",
+      "status": false
+    },
+    {
+      "id": "1a6b",
+      "task": "task 2",
+      "important": "2",
+      "description": "An ergonomic gaming mouse with adjustable DPI settings.",
+      "status": false
+    },
+    {
+      "id": "1edf",
+      "task": "hello",
+      "important": "3",
+      "description": "An ergonomic gaming mouse with adjustable DPI settings.",
+      "status": false
+    }
+  ]
+}
